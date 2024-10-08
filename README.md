@@ -15,7 +15,7 @@ Instead, the following is an example of an image generated through `Image2Image`
 
 
 
-## Key Features:
+## Key Features
 - **Shared Attention Mechanism:** Enhances the quality and style alignment of generated images by modifying attention layers within diffusion models.
 - **Stable Diffusion Compatibility:** The method is compatible with existing Stable Diffusion models, allowing for easy integration and use.
 - **No Additional Training Required:** The shared attention mechanism can be applied to existing models without the need for additional training, making it easy to incorporate into existing pipelines.
